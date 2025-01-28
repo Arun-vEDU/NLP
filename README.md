@@ -6,7 +6,7 @@ Below is a comparison table for different models:
 |---------------------|-------------|---------------|---------------|---------------------|-------------------|
 | Skipgram           | 2          | 22.80             | 1.1 sec/Epoch             | -                   | -                 |
 | Skipgram (NEG)     | 2           | 27.50            | 0.5 sec/Epoch            | -                   | -                 |
-| Glove              | 2           | -             | 2 sec/Epoch             | -                   | -                 |
+| Glove              | 2           | 8.14            | 2 sec/Epoch             | -                   | -                 |
 | Glove (Gensim)     | 2          | 0            | 5.85 sec/Epoch            | 0 %                  | -                 |
 
 
