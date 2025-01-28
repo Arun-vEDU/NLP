@@ -3,7 +3,7 @@ from dash import dcc, html, Input, Output, State
 from gensim.models import KeyedVectors
 import numpy as np
 
-# Load your trained Word2Vec model
+# Load trained Word2Vec model
 model_path = "word_vectors.kv"  #  model path
 word_vectors = KeyedVectors.load(model_path)
 
