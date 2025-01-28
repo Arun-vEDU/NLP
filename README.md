@@ -10,4 +10,4 @@ Below is a comparison table for different models:
 | Glove (Gensim)     | 2          | 0            | 5.85 sec/Epoch            | 0 %                  | -                 |
 
 
-# Spearman Correlation: 0.0066
+Spearman Correlation: 0.0066
